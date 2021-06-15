@@ -31,7 +31,7 @@
 
 ## 事件
 
-[通用事件](./gesture.md)
+[通用事件](voltron-vue/gesture.md)
 
 不支持
 
@@ -68,7 +68,7 @@
 
 ## 事件
 
-[通用事件](./gesture.md)
+[通用事件](voltron-vue/gesture.md)
 
 不支持
 
@@ -126,7 +126,7 @@
 
 ## 事件
 
-[通用事件](./gesture.md)
+[通用事件](voltron-vue/gesture.md)
 
 支持`click`, `longClick`, `pressIn`, `pressOut`
 
@@ -158,7 +158,7 @@
 
 ## 事件
 
-[通用事件](./gesture.md)
+[通用事件](voltron-vue/gesture.md)
 
 无
 

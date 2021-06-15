@@ -32,7 +32,7 @@
 
 ## 事件
 
-[通用事件](./gesture.md)
+[通用事件](voltron-vue/gesture.md)
 
 支持`click`, `longClick`, `pressIn`, `pressOut`, `touchStart`, `touchMove`, `touchend`, `touchCancel`
 
@@ -89,7 +89,7 @@
 
 ## 事件
 
-[通用事件](./gesture.md)
+[通用事件](voltron-vue/gesture.md)
 
 支持`click`, `longClick`, `pressIn`, `pressOut`
 
@@ -139,7 +139,7 @@
 
 ## 事件
 
-[通用事件](./gesture.md)
+[通用事件](voltron-vue/gesture.md)
 
 不支持
 
@@ -241,7 +241,7 @@ ul 的子节点，终端层节点回收和复用的最小颗粒度。
 
 ## 事件
 
-[通用事件](./gesture.md)
+[通用事件](voltron-vue/gesture.md)
 
 支持`click`, `longClick`, `pressIn`, `pressOut`
 
@@ -274,7 +274,7 @@ ul 的子节点，终端层节点回收和复用的最小颗粒度。
 
 ## 事件
 
-[通用事件](./gesture.md)
+[通用事件](voltron-vue/gesture.md)
 
 支持`click`, `longClick`, `pressIn`, `pressOut`
 
